@@ -1,0 +1,7 @@
+streamlit
+gensim==4.3.2
+numpy<2.0
+pandas
+nltk
+tqdm
+requests
