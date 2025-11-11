@@ -1,7 +1,11 @@
-streamlit
-gensim==4.3.2
-numpy<2.0
-pandas
-nltk
-tqdm
-requests
+--force-reinstall --no-cache-dir --no-deps
+streamlit==1.51.0
+gensim==4.3.3
+numpy==2.1.3
+scikit-learn==1.5.2
+nltk==3.8.1
+tqdm==4.66.5
+rich==13.7.1
+pygments==2.17.2
+markdown-it-py==3.0.0
+mdurl==0.1.2
